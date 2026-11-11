@@ -48,30 +48,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=aditirajsharma&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=aditirajsharma&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
-</div>
-
-<!-- OPTIONAL 3D CONTRIBUTION GRAPH (like the reference):
-     Add the 3d-contrib.yml workflow first, run it once, then delete this comment's opening and closing lines.
-
----
-
-## 🧊 Contribution Graph
 
 <div align="center">
 
