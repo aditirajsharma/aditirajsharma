@@ -14,7 +14,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0diti-raj-sharma-963a95339/)
+<a href="https://www.linkedin.com/in/%D0%B0diti-raj-sharma-963a95339/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
 
 ---
 
@@ -27,20 +27,10 @@
 <img src="https://skillicons.dev/icons?i=html,tailwind,react,nextjs,nodejs,spring,dotnet,vercel,netlify&theme=dark" alt="Web Development" />
 
 #### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI and Data" />
-<br />
-<img height="28" src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-<img height="28" src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img height="28" src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="scikit-learn" />
-<img height="28" src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
-<img height="28" src="https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=Keras&logoColor=D00000" alt="Keras" />
+<img src="./assets/ai-data.svg" height="48" alt="NumPy, Pandas, PyTorch, scikit-learn, Matplotlib, Keras, TensorFlow" />
 
 #### ☁️ Tools, Cloud & Hardware
-<img src="https://skillicons.dev/icons?i=gcp,aws,azure,arduino,raspberrypi,notion,figma&theme=dark" alt="Tools, Cloud and Hardware" />
-<br />
-<img height="28" src="https://img.shields.io/badge/Zigbee-0d1117?style=flat-square&logo=zigbee&logoColor=EB0443" alt="Zigbee" />
-<img height="28" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-0d1117?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=DA1F26" alt="Adobe Creative Cloud" />
-<img height="28" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-0d1117?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=EC1C24" alt="Adobe Acrobat Reader" />
+<img src="./assets/tools.svg" height="48" alt="Google Cloud, AWS, Azure, Arduino, Raspberry Pi, Zigbee, Notion, Figma, Adobe Creative Cloud, Adobe Acrobat Reader" />
 
 ---
 
