@@ -1,83 +1,46 @@
-## 💫 About Me
+<img src="./assets/h-about.svg" width="100%" alt="About Me" />
 
-👋 About Me
+<img src="./assets/about.svg" width="100%" alt="I'm a Computer Engineering student passionate about Artificial Intelligence, Machine Learning, and building technology-driven solutions. I work with Python, C++, Java, JavaScript, TensorFlow, OpenCV, and Scikit-learn. I'm continuously strengthening my problem-solving and development skills through hands-on projects, continuous learning, and collaboration. Always curious to explore emerging technologies, take on new challenges, and turn innovative ideas into impactful solutions!" />
 
-🎓 I'm a Computer Engineering student passionate about **Artificial Intelligence, Machine Learning, and building technology-driven solutions.**
+<br />
 
-💻 I work with **Python, C++, Java, JavaScript, TensorFlow, OpenCV, and Scikit-learn.**
+<img src="./assets/h-socials.svg" width="100%" alt="Socials" />
 
-🚀 I'm continuously strengthening my problem-solving and development skills through hands-on projects, continuous learning, and collaboration.
+<a href="https://www.linkedin.com/in/%D0%B0diti-raj-sharma-963a95339/"><img src="https://skillicons.dev/icons?i=linkedin" height="52" alt="LinkedIn" /></a>
 
-🌱 Always curious to explore emerging technologies, take on new challenges, and turn innovative ideas into impactful solutions!
+<br />
 
----
+<img src="./assets/h-tech.svg" width="100%" alt="Tech Stack" />
 
-## 🌐 Socials
+<img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Python, C, C++, Java, JavaScript, HTML, Tailwind CSS, React, Next.js, Node.js, Spring, .NET, Vercel, Netlify, NumPy, Pandas, PyTorch, scikit-learn, Matplotlib, Keras, TensorFlow, Google Cloud, AWS, Azure, Arduino, Raspberry Pi, Zigbee, Notion, Figma, Adobe Creative Cloud, Adobe Acrobat Reader" />
 
-<a href="https://www.linkedin.com/in/%D0%B0diti-raj-sharma-963a95339/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+<br />
 
----
-
-## 💻 Tech Stack
-
-#### 📘 Languages
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js&theme=dark" alt="Languages" />
-
-#### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,tailwind,react,nextjs,nodejs,spring,dotnet,vercel,netlify&theme=dark" alt="Web Development" />
-
-#### 🤖 AI & Data
-<img src="./assets/ai-data.svg" height="48" alt="NumPy, Pandas, PyTorch, scikit-learn, Matplotlib, Keras, TensorFlow" />
-
-#### ☁️ Tools, Cloud & Hardware
-<img src="./assets/tools.svg" height="48" alt="Google Cloud, AWS, Azure, Arduino, Raspberry Pi, Zigbee, Notion, Figma, Adobe Creative Cloud, Adobe Acrobat Reader" />
-
----
-
-## 📊 GitHub Stats
+<img src="./assets/h-stats.svg" width="100%" alt="GitHub Stats" />
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=aditirajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://streak-stats.demolab.com/?user=aditirajsharma&theme=dark&hide_border=false&background=0D1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
-![](https://streak-stats.demolab.com/?user=aditirajsharma&theme=dark&hide_border=false)
+<br />
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditirajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=aditirajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aditirajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=58a6ff&border_color=30363d" alt="Top Languages" />
 
 </div>
 
----
+<br />
 
-## 🏆 GitHub Trophies
+<img src="./assets/h-contrib.svg" width="100%" alt="Contribution Graph" />
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=aditirajsharma&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditirajsharma&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=16" alt="Contribution Graph" width="100%" />
 
 </div>
-
----
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=aditirajsharma&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
-</div>
-
-<!-- OPTIONAL 3D CONTRIBUTION GRAPH (like the reference):
-     Add the 3d-contrib.yml workflow first, run it once, then delete this comment's opening and closing lines.
-
----
-
-## 🧊 Contribution Graph
-
-<div align="center">
-
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
--->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
