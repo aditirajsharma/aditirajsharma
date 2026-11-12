@@ -13,11 +13,6 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/snake-sunset-dark.svg" />
-  <img alt="Sunset contribution snake" src="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/snake-sunset.svg" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/pacman-contribution-graph-dark.svg" />
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/pacman-contribution-graph.svg" />
 </picture>
