@@ -13,8 +13,8 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/pacman-contribution-graph-dark.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/pacman-contribution-graph-dark.svg?v=2" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/pacman-contribution-graph.svg?v=2" />
 </picture>
 
 ## 🌐 Socials
@@ -35,20 +35,4 @@
 <img src="./assets/ai-data.svg" height="48" alt="NumPy, Pandas, PyTorch, scikit-learn, Matplotlib, Keras, TensorFlow" />
 
 #### ☁️ Tools, Cloud & Hardware
-<img src="./assets/tools.svg" height="48" alt="Google Cloud, AWS, Azure, Arduino, Raspberry Pi, Zigbee, Notion, Figma, Adobe Creative Cloud, Adobe Acrobat Reader" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=aditirajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=aditirajsharma&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditirajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./assets/tools.svg" height="48" alt="Google Cloud, AWS, Azure, Arduino, Raspberry Pi, Zigbee, Notion, Figma, Adobe
