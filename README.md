@@ -11,6 +11,12 @@
 🌱 Always curious to explore emerging technologies, take on new challenges, and turn innovative ideas into impactful solutions!
 
 ---
+<your intro here>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/snake-sunset-dark.svg" />
+  <img alt="Sunset contribution snake" src="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/snake-sunset.svg" />
+</picture>
 
 ## 🌐 Socials
 
