@@ -1,7 +1,5 @@
 ## 💫 About Me
 
-👋 About Me
-
 🎓 I'm a Computer Engineering student passionate about **Artificial Intelligence, Machine Learning, and building technology-driven solutions.**
 
 💻 I work with **Python, C++, Java, JavaScript, TensorFlow, OpenCV, and Scikit-learn.**
