@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pac-Man
 
 on:
   schedule:
@@ -13,21 +13,25 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-sunset.svg?color_snake=#b71c1c&color_dots=#ebedf0,#ffe0b2,#ffb74d,#fb8c00,#e65100
-            dist/snake-sunset-dark.svg?color_snake=#ff5252&color_dots=#2d333b,#ffe0b2,#ffb74d,#fb8c00,#e65100
-
       - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Apply Sunset colors
+        run: |
+          sed -i \
+            -e 's/#9be9a8/#ffe0b2/gI' -e 's/#40c463/#ffb74d/gI' \
+            -e 's/#30a14e/#fb8c00/gI' -e 's/#216e39/#e65100/gI' \
+            -e 's/#0e4429/#ffe0b2/gI' -e 's/#006d32/#ffb74d/gI' \
+            -e 's/#26a641/#fb8c00/gI' -e 's/#39d353/#e65100/gI' \
+            dist/*.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
