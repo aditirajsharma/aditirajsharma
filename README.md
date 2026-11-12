@@ -11,7 +11,6 @@
 🌱 Always curious to explore emerging technologies, take on new challenges, and turn innovative ideas into impactful solutions!
 
 ---
-<your intro here>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditirajsharma/aditirajsharma/output/snake-sunset-dark.svg" />
@@ -51,15 +50,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditirajsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
----
-
-
-<div align="center">
-
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
--->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
