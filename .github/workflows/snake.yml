@@ -1,19 +1,3 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # daily
-  workflow_dispatch:       # lets you run it manually
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
@@ -21,6 +5,11 @@ jobs:
           outputs: |
             dist/snake-sunset.svg?color_snake=#b71c1c&color_dots=#ebedf0,#ffe0b2,#ffb74d,#fb8c00,#e65100
             dist/snake-sunset-dark.svg?color_snake=#ff5252&color_dots=#2d333b,#ffe0b2,#ffb74d,#fb8c00,#e65100
+
+      - name: Generate Pac-Man graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
