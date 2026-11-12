@@ -33,4 +33,4 @@
 <img src="./assets/ai-data.svg" height="48" alt="NumPy, Pandas, PyTorch, scikit-learn, Matplotlib, Keras, TensorFlow" />
 
 #### ☁️ Tools, Cloud & Hardware
-<img src="./assets/tools.svg" height="48" alt="Google Cloud, AWS, Azure, Arduino, Raspberry Pi, Zigbee, Notion, Figma, Adobe
+<img src="./assets/tools.svg" height="48" alt="Google Cloud, AWS, Azure, Arduino, Raspberry Pi, Zigbee, Notion, Figma, Adobe Creative Cloud, Adobe Acrobat Reader" />
